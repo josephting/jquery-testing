@@ -1,0 +1,24 @@
+{
+  "name": "jquery-testing",
+  "version": "1.0.0",
+  "description": "How do I test `main.js` to check if the `$.ajax` is called and with correct parameters?",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephting/jquery-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephting/jquery-testing/issues"
+  },
+  "homepage": "https://github.com/josephting/jquery-testing#readme",
+  "devDependencies": {
+    "jest": "^24.0.0",
+    "jquery": "^3.2.1"
+  }
+}
